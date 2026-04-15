@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.nianticspatial</groupId>
+  <artifactId>nsdk</artifactId>
+  <version>4.0.0.26041500</version>
+  <packaging>aar</packaging>
+  <name>Niantic Spatial SDK</name>
+  <description>Niantic Spatial SDK (NSDK) for Android</description>
+</project>
